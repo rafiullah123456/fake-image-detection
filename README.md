@@ -40,4 +40,4 @@ Python, OpenCV, NumPy, scikit-learn, TensorFlow/Keras, Matplotlib
 ## How to run
 1. Download the dataset from the Kaggle link above.
 2. Open `fake_image_detection.ipynb` in Google Colab.
-3. Upload `archive.zip`, run the cells in order.
+3. Upload `archive.zip` in GoogleDrive, run the cells in order.
